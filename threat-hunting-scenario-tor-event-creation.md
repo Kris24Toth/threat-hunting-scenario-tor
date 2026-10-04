@@ -75,9 +75,9 @@ DeviceFileEvents
 ---
 
 ## Created By:
-- **Author Name**: Josh Madakor
-- **Author Contact**: https://www.linkedin.com/in/joshmadakor/
-- **Date**: August 31, 2024
+- **Author Name**: Kristofor Toth
+- **Author Contact**: https://www.linkedin.com/in/kristofortoth/
+- **Date**: Ocotober 4, 2026
 
 ## Validated By:
 - **Reviewer Name**: 
